@@ -1,3 +1,5 @@
+[English](./README.md) | 简体中文 
+
 ##  环境
 node版本大于8，npm版本大于3
 
