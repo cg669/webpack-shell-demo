@@ -1,3 +1,5 @@
+English | [简体中文](./README.zh-CN.md)
+
 ##  base env
 node > 8.0  npm > 3
 
